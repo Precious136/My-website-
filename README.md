@@ -1,2 +1,62 @@
 # My-website-
-Optional
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>My First Page</title>
+        </head>
+          <body>
+              <h1>Welcome to Precious's Website</h1>
+                <p>I’m learning HTML on my phone!</p>
+                  <p>This is exciting!</p>
+                  </body>
+                  <h2>My Hobbies</h2>
+                  <ul>
+                    <li>Reading</li>
+                      <li>Drawing</li>
+                        <li>Coding</li>
+                        </ul>
+                        <h2>Steps to Cook Rice</h2>
+                        <ol>
+                          <li>Wash the rice</li>
+                            <li>Boil water</li>
+                              <li>Pour rice into boiling water</li>
+                                <li>Cook until soft</li>
+                                </ol>
+                                <h2>My Favorite Animal</h2>
+                                <img src="https://placekitten.com/300/200" alt="Cute Kitten">
+                                <h2>This is Me</h2>
+                                <img src="mypic.jpg" alt="My Photo" width="300">
+                                <h1>About Me</h1>
+
+                                <h2>My Favorite Foods</h2>
+                                <ul>
+                                  <li>Rice</li>
+                                    <li>Spaghetti</li>
+                                      <li>Yam</li>
+                                      </ul>
+
+                                      <h2>My Top 3 Goals</h2>
+                                      <ol>
+                                        <li>Learn Web Development</li>
+                                          <li>Build My Own Website</li>
+                                            <li>Make Money Online</li>
+                                            </ol>
+
+                                            <h2>See a Cute Animal</h2>
+                                            <img src="https://placebear.com/300/200" alt="A Cute Bear">
+                                            <a href="about.html">About Me</a>
+                                            <a href="index.html">Go Back Home</a>
+                                            <!DOCTYPE html>
+                                            <html>
+                                            <head>
+                                              <title>About Me</title>
+                                              </head>
+                                              <body>
+                                                <h1>This is the About Page</h1>
+                                                  <p>Welcome to the second page of my website!</p>
+                                                    <a href="index.html">Go Back Home</a>
+                                                    </body>
+                                                    </html>
+                                                    <p>Click below to learn more about me:</p>
+                                                    <a href="about.html">About Me</a>
+                                                    
